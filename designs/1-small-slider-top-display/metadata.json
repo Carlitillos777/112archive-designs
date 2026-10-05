@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "id": 1,
+  "slug": "small-slider-top-display",
+  "title": "Small Slider Top Display",
+  "description": "A small 1.12 compatible Top Display designed for Quad Bulks\n\n**Features:**\n-Seamless UI\n-Global First Box Placement\n\n**Cons:**\nBreaks if you empty the boxes too quickly",
+  "rates": "",
+  "performance": "",
+  "credits": "",
+  "category": {
+    "id": "1555604388595372052",
+    "name": "storage-tech"
+  },
+  "tags": [
+    {
+      "id": "1556571217249439804",
+      "name": "Box Display"
+    }
+  ],
+  "authors": [
+    {
+      "discordId": null,
+      "name": "Ragdoll Willy"
+    }
+  ],
+  "relations": [],
+  "links": [],
+  "files": [
+    {
+      "kind": "image",
+      "label": "",
+      "filename": "image.webp",
+      "size": 161314,
+      "sha256": "231982e2dd73e0300e0d308d841dfe1c3d3d4180116ac429eeb5c4320952cf19",
+      "meta": null,
+      "path": "images/image.webp"
+    },
+    {
+      "kind": "schematic",
+      "label": "",
+      "filename": "Dimension Loader.litematic",
+      "size": 1647,
+      "sha256": "c952dbfc82fdcdb723133c644bb03931910ba263f5ddf3e0d0979e0f758e985e",
+      "meta": {
+        "size": [
+          6,
+          11,
+          5
+        ],
+        "regions": 1,
+        "totalBlocks": 96,
+        "dataVersion": 1343
+      },
+      "path": "schematics/Dimension Loader.litematic"
+    }
+  ],
+  "images": [
+    "images/image.webp"
+  ],
+  "revision": 1,
+  "archivedAt": "2026-10-05T07:54:06.392Z",
+  "discord": {
+    "submissionThread": "1556575002093158411",
+    "archiveThread": "1556575211845980272"
+  }
+}
