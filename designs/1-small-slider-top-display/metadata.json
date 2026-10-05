@@ -4,8 +4,7 @@
   "slug": "small-slider-top-display",
   "title": "Small Slider Top Display",
   "description": "A small 1.12 compatible Top Display designed for Quad Bulks\n\n**Features:**\n-Seamless UI\n-Global First Box Placement\n\n**Cons:**\nBreaks if you empty the boxes too quickly",
-  "rates": "",
-  "performance": "",
+  "sections": [],
   "credits": "",
   "category": {
     "id": "1555604388595372052",
